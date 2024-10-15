@@ -12,7 +12,14 @@ CONTENTS
 
 INTRODUCTION 
 -------------------------
-This solution is for a music interface written in Visual basic.
+This solution is for a music interface written in Visual basic (.NET).
+
+* Allows music playback
+* Have a shuffle button
+* Able to load in songs which are then added to a database
+* Search option to find a certain song within the database
+* Lists the songs by name
+* Have user control over playback
 
 
 INSTALLATION
