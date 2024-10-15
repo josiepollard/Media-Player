@@ -39,3 +39,6 @@ SUPPORTED FILE TYPES
 
 Within the properties of the file, the details should be populated. At minimum it needs to have a Title and Album.
 Without these the file will still be able to play, but no name or details about it will be visible in the player.
+
+
+![alt text](Screenshot 2024-10-15 114704)
