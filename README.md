@@ -41,4 +41,4 @@ Within the properties of the file, the details should be populated. At minimum i
 Without these the file will still be able to play, but no name or details about it will be visible in the player.
 
 
-![Example Image](Screenshot 2024-10-15 114704.png)
+![Example Image](Screenshot.png)
